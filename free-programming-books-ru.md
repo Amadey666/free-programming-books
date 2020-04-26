@@ -287,7 +287,7 @@
 * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/ru) - Иво Ветцель
 * [JavaScript и jQuery](https://html5book.ru/javascript-jquery) - Елена Назарова
 * [Выразительный JavaScript](https://github.com/karmazzin/eloquentjavascript_ru) - Marijn Haverbeke
-* [Курс современного JavaScript](https://bxnotes.ru/conspect/kurs-sovremennogo-javascript/) - bxnotes
+* [Курс современного JavaScript](https://bxnotes.ru/conspect/kurs-sovremennogo-javascript/) - bxnotes [Done]
 * [Онлайн-книга по WebGL](https://metanit.com/web/webgl) - Евгений Попов
 * [Паттерны для масштабируемых JavaScript-приложений](http://largescalejs.ru) - Эдди Османи
 * [Руководство по JavaScript](https://metanit.com/web/javascript) - Евгений Попов
